@@ -1,0 +1,12 @@
+{
+    "name": "api-resume-manager",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "mlaopane <mlaopane@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "server": "php bin/console server:run",
+        "controller": "php bin/console make:controller",
+        "entity": "php bin/console make:entity"
+    }
+}
